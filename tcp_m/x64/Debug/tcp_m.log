@@ -1,0 +1,4 @@
+﻿  tcp_m.cpp
+D:\学习\tcp_manager\tcp_manager\tcp_m\tcp_m\tcp_interface.h(26,1): warning C4005: “FD_SETSIZE”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\um\WinSock2.h(133): message : 参见“FD_SETSIZE”的前一个定义
+  tcp_m.vcxproj -> D:\学习\tcp_manager\tcp_manager\tcp_m\x64\Debug\tcp_m.exe
